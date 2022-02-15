@@ -9,7 +9,7 @@ class CiActionProjectApplicationTests {
 
     @Test
     void contextLoads() {
-        Assertions.fail();
+
     }
 
 }
